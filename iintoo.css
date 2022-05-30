@@ -1,0 +1,156 @@
+
+#main-background {
+    width: 2560px;
+    height: 1440px;
+    background-color: #EFF6FF;
+    z-index: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#bg {
+    margin-top: 150px;
+    margin-left: 300px;
+    z-index: 1;
+}
+
+#logo {
+    position: absolute;
+    width: 120px;
+    left: 350px;
+    top: 180px;
+    z-index: 2;
+}
+
+.text-background {
+    position: absolute;
+    margin-left: 1057px;
+    margin-top: 150px;
+    width: 730px;
+    height: 1000px;
+    background-color: #FFFFFF;
+    z-index: 3;
+    font-family: 'Barlow', sans-serif;
+}
+
+#one-line {
+    color: #2A4A5C;
+    font-size: 30px;
+    margin-left: 75px;
+    margin-top: 90px;
+}
+
+#two-line {
+    color: #96A5B1;
+    font-size: 20px;
+    margin-left: 75px;
+}
+
+#facebook {
+    font-size: 15px;
+    padding: 10px 60px;
+    margin-left: 75px;
+    color: #FFFFFF;
+    background-color: #255A9B;
+    border: 0px;
+}
+
+#linkdin {
+    font-size: 15px;
+    padding: 10px 60px;
+    margin-left: 30px;
+    color: #FFFFFF;
+    background-color: #0076B6;
+    border: 0px;
+}
+
+#facebook-logo {
+    position: absolute;
+    width: 20px;
+    margin-left: 90px;
+    margin-top: -29px;
+}
+
+#lenkedin-logo {
+    position: absolute;
+    width: 16px;
+    margin-left: 405px;
+    margin-top: -29px;
+}
+
+#three-line {
+    font-size: 13px;
+    margin-left: 358px;
+    margin-top: 70px;
+}
+
+#form-Email {
+    height: 50px;
+    width: 37%;
+    margin-left: 75px;
+    margin-top: 55px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #7B8A92 #7B8A92 #7B8A92 #3698FB;
+}
+
+#form-Phone {
+    height: 50px;
+    width: 36%;
+    margin-left: 25px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #7B8A92;
+}
+
+#four-line {
+    color: #2A4A5C;
+    font-size: 25px;
+    margin-left: 75px;
+    margin-top: 90px;
+}
+
+#five-line {
+    color: #96A5B1;
+    font-size: 15px;
+    margin-left: 75px;
+}
+
+.form-check {
+    margin-left: 75px;
+    margin-top: 40px;
+}
+
+.form-i {
+    font-size: 10px;
+}
+
+#six-line {
+    color: #96A5B1;
+    background-color: white;
+    position: absolute;
+    margin-left: 1130px;
+    margin-top: 845px;
+    z-index: 4;
+    box-shadow: 0 0 5px;
+}
+
+#seven-line {
+    margin-left: 70px;
+    margin-top: 150px;
+    color: #96A5B1;
+}
+
+#eight-line {
+    font-size: 15px;
+    padding: 10px 60px;
+    margin-left: 72px;
+    margin-top: 30px;
+    color: #FFFFFF;
+    background-color: #3698FB;
+    border: 0px;
+}
+
